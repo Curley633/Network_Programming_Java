@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Assignment 1 Channel Networking.iml" filepath="$PROJECT_DIR$/Assignment 1 Channel Networking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CCC/CCC.iml" filepath="$PROJECT_DIR$/CCC/CCC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CCS/CCS.iml" filepath="$PROJECT_DIR$/CCS/CCS.iml" />
+    </modules>
+  </component>
+</project>
